@@ -1,0 +1,6 @@
+Me parece que esta bueno el curso. Creo que aportaria bastante más en una etapa temprana. Como en el cuarto semestre o tercero.
+Quizas estaria bueno separar y dar antes un curso de git, y otra de devops. Ya que si bien estan relacionados, y git se usa en devops.
+Puede ser bastante util en etapas tempranas de la carrera tener git para compartir codigo y arcivos entre los compañeros y tutores.
+
+Una idea que puede estar bueno tener un repo por materia, con el mismo material que hay en la plataforma como forma de incentivar a usar
+git aunque sea de forma basica.
