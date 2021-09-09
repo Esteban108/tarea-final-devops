@@ -1,0 +1,6 @@
+Estaria bueno enfocar el taller a más uso de devops, quizas levantar algun docker-compose o kubernetes. 
+Y como comente en el otro txt, poner git al comienzo de la carrera para que no sea un cuello de botella. 
+
+En difinitiva los cursos me gustaron ambos, pero creo que aportan más al estudiante en una etapa más temprana.
+No tan pegado al proyecto, para poder dar tiempo a aprender antes de tener que usarlo, y poder aprovecharlo en otros
+cursos.
